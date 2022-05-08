@@ -1,4 +1,8 @@
 # 科学の甲子園 非公式競技
+JS実行環境
+https://local-judge-system.glitch.me
+JS,C++,Python提出環境（JS実行も可能）
+https://local-judge-and-submit.glitch.me
 
 ## 競技参加者がすること
 1. 候補8人の実力をみて、高得点を取りやすそうな6人を決める方法を考える
